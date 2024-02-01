@@ -16,7 +16,7 @@ const Header = ({ siteTitle }) => (
         style={{
           padding: '15px',
         }}
-    ><p><a href="mailto:admin@auroraproject.org.uk">Get in Touch</a></p></div>
+    ><h1><a href="mailto:admin@auroraproject.org.uk">Get in Touch</a></h1></div>
   </header>
 )
 
